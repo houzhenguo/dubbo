@@ -1,0 +1,6 @@
+/.idea
+/dubbo-demo.iml
+/*.iml
+/dubbo-api/dubbo-api.iml
+/dubbo-provider/dubbo-provider.iml
+/dubbocon-sumer/dubbocon-sumer.iml
